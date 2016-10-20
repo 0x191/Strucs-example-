@@ -1,2 +1,2 @@
 # Structs-example-
-Made in c++, for people who need help with strucs 
+Made in c++, for people who need help with structs 
